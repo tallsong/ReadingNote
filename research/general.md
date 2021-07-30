@@ -26,3 +26,10 @@
 - substantiate your goals with solid evidence of why you have a good chance of achieving them
     - “We have an idea”. In this case, you should sketch the idea, and describe preliminary work you have done which shows that it is indeed a good idea. 
     - “We have a good track record”. Include a selective list of publications, and perhaps include a short paper (preferably a published one) which gives more background, as an appendi
+
+# Taking Notes While Reading
+> [reference](https://learningcenter.unc.edu/tips-and-tools/taking-notes-while-reading/)
+- try taking notes from memory
+- try to reading a short a section of your reading, and pausing to think about what you just read,then takes notes from you memory.
+- writing a summary of key point,and then fill them with consulting reading after you have recalled everything you can. 
+- write notes in your own words intead of copy form document
